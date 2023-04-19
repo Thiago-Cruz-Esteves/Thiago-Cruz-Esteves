@@ -25,8 +25,8 @@
 ##
   
   <div>
-     <a href = "THIAGOCRUZESTEVES@outlook.com"><img align="center" alt="Arnab-CSS" height="30" width="40" src="https://slackmojis.com/emojis/4249-outlook/download" target="_blank"></a>
+     <a href = "THIAGOCRUZESTEVES@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="www.linkedin.com/in/thiago-cruz-esteves-3179b7154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thiago-Cruz-Esteves/Thiago-Cruz-Esteves/blob/output/github-contribution-grid-snake.svg)
