@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/9336-baby-yoda/download" width="30"/> Hey! Nice to see you..</h1>
 
+<p>Welcome to my page! </br> Hello, my name is Thiago and I'm a technology enthusiast. Since I started studying programming, I discovered my passion for Data Analysis and Machine Learning with Python. I am constantly challenging myself to learn new skills and improve my knowledge to be always up-to-date in the market. I am currently dedicated to studying Data Analytics and Machine Learning with Python, but I am always willing to learn new technologies and tools. And I am excited to share my knowledge and collaborate on new projects.
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+Translated with www.DeepL.com/Translator (free version)  </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
