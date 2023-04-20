@@ -2,9 +2,9 @@
 
 <p>Welcome to my page! </br> Hello, my name is Thiago and I'm a technology enthusiast. Since I started studying programming, I discovered my passion for Data Analysis and Machine Learning with Python. I am constantly challenging myself to learn new skills and improve my knowledge to be always up-to-date in the market. I am currently dedicated to studying Data Analytics and Machine Learning with Python, but I am always willing to learn new technologies and tools. And I am excited to share my knowledge and collaborate on new projects.
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Cruz-Esteves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Cruz-Esteves&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+  <img height="170em" alt="Arnab Thiago-Cruz-Esteves Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thiago-Cruz-Esteves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Cruz-Esteves&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div align="left"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
