@@ -25,8 +25,13 @@
 ##
   
 <div>
-  <a href = "THIAGOCRUZESTEVES@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="www.linkedin.com/in/thiago-cruz-esteves-3179b7154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:THIAGOCRUZESTEVES@outlook.com"> 
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Ícone do Microsoft Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-cruz-esteves-3179b7154" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do LinkedIn">
+  </a>   
 </div>
+
 
 
